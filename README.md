@@ -2,6 +2,8 @@
 ## Final Project -Data 03- Henry
 ### Jhovany Lara, Rodrigo Ruiz, Pablo Poletti, José Toledo
 
+Video: https://youtu.be/YbueLVxM3RA
+
 ## Contents:
 
 1. [Development](#Development)
