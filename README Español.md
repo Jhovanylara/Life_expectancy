@@ -1,8 +1,8 @@
 # Latin-Data
-## Proyecto Final -Data 03- Soy Henry
-### Jhovany Lara, Rodrigo Ruiz, Pablo Poletti , José Toledo
+## Proyecto Final -Data 03- Henry
+### Jhovany Lara, Rodrigo Ruiz, Pablo Poletti, José Toledo
 
-## Tabla de contenidos
+## Contenido:
 
 1. [Desarrollo](#Desarrollo)
 2. [Paises](#Paises)
